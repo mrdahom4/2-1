@@ -1,6 +1,6 @@
-﻿token=
-owner=
-prefix=
-game=
+﻿token=NTQxMTcwNTEzMDE2NTIwNzE0.DzbkUQ.I2OJwHp0XZP_dghNr7J16ECf8cQ
+owner=525434548939653151
+prefix=2
+game=2play
 stayinchannel=true
 songinstatus=false
